@@ -15,7 +15,7 @@ This is a Dark King Whatsapp bot..
   </p>
   <p align="center">
     <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL" target="_blank">
-      <img alt="whatsapp Group" src="https://img.shields.io/badge/ DARK-KIND Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+      <img alt="whatsapp Group" src=" DARK-KIND Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
     </a>
   </p>
 ---
@@ -24,9 +24,9 @@ Scan QR Code
 1. ***Get [SESSION-ID](https://replit.com/@sdcwesternmusic/Dark-King-MD) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
-2. ***Click [FORK](https://github.com/Maccoder3/MAC-MD/fork)***
+2. ***Click [FORK](https://github.com/masterthenu1/Dark-King-MD)***
 # ```WATCH TUTORIAL```
-3. ***WATCH [TUTORIAL](https://youtu.be/t6dvww00lQA?si=mOdD154N3Tgq5IK5)***
+3. ***WATCH [TUTORIAL]()***
 ---
   <hr>
   <h2>Deployments METHODS</h2>
