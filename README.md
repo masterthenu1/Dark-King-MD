@@ -9,19 +9,19 @@ This is a Dark King Whatsapp bot..
         src="https://telegra.ph/file/d56271ce89ab876ba00b8.jpg">
     </a>
   </p>
-  <h1 align="center">MAC-𝙼𝙳 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝙾𝚃</h1>
+  <h1 align="center">DARK-KING 𝙼𝚄𝙻𝚃𝙸 𝙳𝙴𝚅𝙸𝙲𝙴 𝙱𝙾𝚃</h1>
   <p align="center">
     <div hx-get="/visitor_count" hx-target="this" hx-swap="innerHTML"></div>
   </p>
   <p align="center">
     <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL" target="_blank">
-      <img alt="whatsapp Group" src="https://img.shields.io/badge/ MAC Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
+      <img alt="whatsapp Group" src="https://img.shields.io/badge/ DARK-KIND Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
     </a>
   </p>
 ---
 Scan QR Code
 
-1. ***Get [SESSION-ID](https://replit.com/@maccoder74/MAC-Md?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID](https://replit.com/@sdcwesternmusic/Dark-King-MD) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
 2. ***Click [FORK](https://github.com/Maccoder3/MAC-MD/fork)***
