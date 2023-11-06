@@ -21,7 +21,7 @@ This is a Dark King Whatsapp bot..
 ---
 Scan QR Code
 
-1. ***Get [SESSION-ID](https://replit.com/@sdcwesternmusic/Dark-King-MD) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+1. ***Get [SESSION-ID](https://gpt-qr-code.onrender.com/elisa) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 --- 
 # ```Fork Repo```
 2. ***Click [FORK](https://github.com/masterthenu1/Dark-King-MD)***
